@@ -1,0 +1,9 @@
+C:\Users\aluno\Desktop\imposto  de renda\imposto  de renda\bin\Debug\imposto  de renda.exe
+C:\Users\aluno\Desktop\imposto  de renda\imposto  de renda\bin\Debug\imposto  de renda.pdb
+C:\Users\aluno\Desktop\imposto  de renda\imposto  de renda\obj\x86\Debug\imposto  de renda.exe
+C:\Users\aluno\Desktop\imposto  de renda\imposto  de renda\obj\x86\Debug\imposto  de renda.pdb
+L:\imposto  de renda\imposto  de renda\obj\x86\Debug\imposto  de renda.exe
+L:\imposto  de renda\imposto  de renda\obj\x86\Debug\imposto  de renda.pdb
+L:\imposto  de renda\imposto  de renda\obj\x86\Debug\imposto  de renda.csprojResolveAssemblyReference.cache
+L:\imposto  de renda\imposto  de renda\bin\Debug\imposto  de renda.exe
+L:\imposto  de renda\imposto  de renda\bin\Debug\imposto  de renda.pdb
